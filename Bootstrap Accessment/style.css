@@ -1,0 +1,28 @@
+  .make{
+    margin-top: 100px;
+    line-height: 3rem;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.get{
+    margin-top: 40px;
+    margin-bottom: 32px;
+}
+
+
+img{
+    width: 550px;
+    height: 500px;
+    margin-top: 10px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+@media (min-width: 992px){
+    body{
+        text-align: center;
+    }
+}
